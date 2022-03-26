@@ -1,7 +1,7 @@
 # Flask Mailer
 ## Aplicación que envía y almacena correos
 
-Aplicación web sencilla que se encarga de enviar correos y almancenarlos en un Base de Datos. El servicio para enviar cada uno de los correos es gracias a SendGrid, pues no requiere de un servidor de correos.
+Aplicación web sencilla que se encarga de enviar y almancenar correos en una Base de Datos. El servicio para enviar cada uno de los correos es gracias a SendGrid, pues no requiere de un servidor de correos.
 
 # Preperación del Entorno
 Antes de iniciar la ejecución de la aplicación es necesario dar de alta las variables del entorno.
